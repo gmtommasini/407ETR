@@ -1,0 +1,22 @@
+{
+  "rates": {
+    "light": {
+      "trip_toll_charge": 1,
+      "camera_charge": 4.2,
+      "eastbound": 0.4709,
+      "westbound": 0.4218
+    },
+    "heavy": {
+      "trip_toll_charge": 2,
+      "camera_charge": 45,
+      "eastbound": 0.7866,
+      "westbound": 0.7416
+    },
+    "multi": {
+      "trip_toll_charge": 3,
+      "camera_charge": 50,
+      "eastbound": 1.299,
+      "westbound": 1.1124
+    }
+  }
+}
